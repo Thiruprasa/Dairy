@@ -1,0 +1,146 @@
+*{
+	margin : 0px;
+	padding:0px;
+}
+.img1{
+	width: 60px;
+	height: 60px;
+	padding-top: 10px;
+	padding-right: 0px;
+}
+.img2{
+	width: 80%;
+	height: 60%;
+}
+.header{
+	width:100%;
+	height:40px;
+}
+.first{
+	width :3.3%;
+    float:left;
+	padding-left: 10px;
+}
+.second{
+	width: 88%;
+	float:left;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.bodypart{
+	width: 100%;
+	text-align: center;
+}
+.bodypart1{
+	width: 45%;
+	float: left;
+	border: 0px solid black;
+	padding-top: 10%;
+}
+.bodypart2{
+	width: 45%;
+	float: left;
+	border: 0px solid black;
+	padding-top: 13%;
+}
+.input{
+	width: 200px;
+	height: 30px;
+	border-radius: 5px;
+}
+input{
+	font-size: 20px;
+}
+label{
+	font-size: 30px;
+}
+button{
+	background-color:aqua;
+	color:black;
+	width: 100px;
+	height: 40px;
+}
+.bodypart12{
+	width: 45%;
+	float: left;
+	border: 0px solid black;
+	padding-top: 17%;
+	font-family: sans-serif;
+	color: navy;
+}
+.bodypart21{
+	width: 45%;
+	float: left;
+	border: 0px solid black;
+	padding-top: 8%;
+}
+.username{
+	color: blue;
+}
+.userhomepage{
+	
+	text-align: left;
+	font-size:30px;
+	padding: 10px;
+	margin-left: 200px;
+	margin-top: 100px;
+}
+.userhomepage a{
+	float: right;
+	margin-right: 100px;
+}
+.addbutton
+{
+	background-color:aqua;
+	margin-right: 100px;
+	float:right;
+	color: black;
+	border-radius: 10px;
+	width: 120px;
+}
+.addbutton:hover{
+	background-color: blue;
+	color: white;
+}
+table{
+	border: 2px solid black;
+	margin: 0 auto auto;
+}
+th{
+	padding: 10px;
+	text-align: center;
+}
+td{
+	padding: 10px;
+}
+.welcomepage{
+	
+	width: 100%;
+	height: 100vh;
+	margin-left: 500px;
+	margin-top: 100px;
+	font-size: 30px;
+	font-family: fantasy;
+}
+.details{
+	margin-top: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
